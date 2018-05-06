@@ -10,4 +10,4 @@
 |  4   | [runoob-nodejs](http://www.runoob.com/nodejs/nodejs-tutorial.html) | 2018-4-10 | 进行中... |          |                                                      |
 |  5   |           [Vue.js](https://cn.vuejs.org/v2/guide/)           | 2018-4-27 | 进行中... |          |                                                      |
 |  6   |     [Django2.0中文教程](http://djangobook.py3k.cn/2.0/)      | 2018-4-27 | 进行中... |          |                                                      |
-
+|  7   | [MDN JavaScript入门](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) | 2018-5-7  | 进行中... |          |                                                      |
