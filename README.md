@@ -14,3 +14,5 @@
 |  7   | [MDN JavaScript入门](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) | 2018-5-7  |       开始       |           |          |                                                              |
 |  8   |          [VuePress](https://vuepress.vuejs.org/zh/)          | 2018-5-7  |       完成       | 2018-5-8  |   2天    |                有些暂时用不到的地方没有仔细看                |
 |  9   | [廖雪峰python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) | 2018-5-9  | 完成 | 2018-5-24 | 16天 | 实战部分感觉没有系统性，弃。MixIn需要实际体会，metaclass没看 |
+| 10 | 《精通Python设计模式》 | 2018-5-25 | 工厂模式 |  |  |  |
+| 11 | [PyQT5](http://code.py40.com/pyqt5/) | 2018-5-25 |  |  |  |  |
